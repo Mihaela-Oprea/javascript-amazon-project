@@ -1,6 +1,6 @@
 # 🛒 Amazon Clone Project
 
-This is the final project of the **JavaScript Full Course by SuperSimpleDev**, which I followed with great interest. Throughout the course, I learned a wide range of essential concepts in **JavaScript, HTML, and CSS**. The lessons were very well structured and clearly explained, guiding me step-by-step through both basic and advanced topics. Completing this course and the Amazon project helped me solidify my understanding of web development fundamentals. At the end of the journey, I received the certification provided by SuperSimpleDev. I'm very grateful for the effort, dedication, and clarity with which he taught every lesson!
+This is the final project of the **JavaScript Full Course by SuperSimpleDev**, which I followed with great interest. Throughout the course, I learned a wide range of essential concepts in **JavaScript, HTML, and CSS**. The lessons were very well structured and clearly explained, guiding me step-by-step through both basic and advanced topics. Completing this course and the Amazon project helped me solidify my understanding of web development fundamentals. At the end of the journey, I received the **certification** provided by SuperSimpleDev. I'm very grateful for the effort, dedication, and clarity with which he taught every lesson!
 
 ## 🎓 Credits
 - **Course & Project by:** [SuperSimpleDev](https://supersimple.dev/)
