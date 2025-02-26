@@ -1,8 +1,6 @@
 # 🛒 Amazon Clone Project
 
-This is my **completed project from the "JavaScript Full Course" by SuperSimpleDev**, where I built an Amazon clone as part of the course curriculum. I successfully finished the course, completed this project, and obtained the certification.
-
-The project simulates key features of an e-commerce platform, including product listings, a shopping cart, checkout process, and order tracking. It was a valuable learning experience that strengthened my JavaScript, HTML, and CSS skills.
+This is the final project of the **JavaScript Full Course by SuperSimpleDev**, which I followed with great interest. Throughout the course, I learned a wide range of essential concepts in JavaScript, HTML, and CSS. The lessons were very well structured and clearly explained, guiding me step-by-step through both basic and advanced topics. Completing this course and the Amazon project helped me solidify my understanding of web development fundamentals. At the end of the journey, I received the certification provided by SuperSimpleDev.
 
 ## 🎓 Credits
 - **Course & Project by:** [SuperSimpleDev](https://supersimple.dev/)
@@ -48,6 +46,12 @@ The project simulates key features of an e-commerce platform, including product 
 - This project was completed as part of the SuperSimpleDev course to enhance my web development skills.
 - The backend folder contains mock data and basic logic to simulate server-side functionality.
 - Images and product data were provided as part of the course materials.
+
+---
+
+🙏 Acknowledgments
+
+I want to thank SuperSimpleDev for creating such an exceptional course and explaining complex concepts in a clear and engaging way! If you're looking to learn web development from scratch, I highly recommend checking out his YouTube channel and official website. 🙌
 
 ---
 
