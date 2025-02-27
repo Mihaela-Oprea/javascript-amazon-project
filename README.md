@@ -42,7 +42,7 @@ This is the final project of the **JavaScript Full Course by SuperSimpleDev**, w
 
 ---
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 I want to thank **SuperSimpleDev** for creating such an exceptional course and explaining complex concepts in a clear and engaging way! If you're looking to learn web development from scratch, **I highly recommend checking out his YouTube channel and official website.** 🙌
 
