@@ -8,10 +8,10 @@ function productSearch() {
     // Verifică dacă există un text introdus în câmpul de căutare
     if (search != "") {
       // Dacă există, redirecționează utilizatorul către pagina de rezultate, cu parametrul de căutare
-      window.location.href = `amazon.html?search=${search}`;
+      window.location.href = `index.html?search=${search}`;
     } else {
       // Dacă câmpul de căutare este gol, redirecționează utilizatorul către pagina principală
-      window.location.href = `amazon.html`;
+      window.location.href = `index.html`;
     }
   });
 
@@ -27,10 +27,10 @@ function productSearch() {
         const input = event.target; // Folosește 'event.target' pentru a face referire la input
         // Dacă există un text introdus în câmpul de căutare, redirecționează utilizatorul la pagina de rezultate
         if (search != "") {
-          window.location.href = `amazon.html?search=${search}`;
+          window.location.href = `index.html?search=${search}`;
         } else {
           // Dacă câmpul de căutare este gol, redirecționează utilizatorul către pagina principală
-          window.location.href = `amazon.html`;
+          window.location.href = `index.html`;
         }
       }
     });

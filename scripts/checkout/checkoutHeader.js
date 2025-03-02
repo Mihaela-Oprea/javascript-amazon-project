@@ -12,7 +12,7 @@ function renderCheckoutHeader() {
   // Construim HTML-ul care va fi adăugat în antetul checkout
   checkoutHeaderHTML += `
     Checkout (<a class="return-to-home-link"
-    href="amazon.html">${cartQuantity} items</a>)
+    href="index.html">${cartQuantity} items</a>)
   `;
 
   // Inserăm HTML-ul generat în secțiunea din mijloc a antetului
