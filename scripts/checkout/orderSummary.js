@@ -136,7 +136,7 @@ export function renderOrderSummary() {
       Your cart is empty.
     </div>
     <div>
-      <a class="button-primary view-products-link" href=index.html">
+      <a class="button-primary view-products-link" href="index.html">
         See products
       </a>
     </div>
