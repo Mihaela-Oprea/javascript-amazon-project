@@ -6,8 +6,6 @@ This is the final project of the **JavaScript Full Course by SuperSimpleDev**, w
 
 ## 🎓 Credits
 - **Course & Project by:** [SuperSimpleDev](https://supersimple.dev/)
-- **YouTube Channel:** [SuperSimpleDev on YouTube](https://www.youtube.com/c/SuperSimpleDev)
-- **Official Website:** [supersimple.dev](https://supersimple.dev/)
 
 ---
 
